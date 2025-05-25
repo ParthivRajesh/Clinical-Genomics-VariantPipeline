@@ -1,4 +1,4 @@
-#  Variant Calling & Annotation Pipeline for Human Genomic Data
+#  Genomics Pipeline for Streamlined Variant Discovery and Annotation
 
 ## Project Description
 This document demonstrates a complete variant calling and annotation pipeline that starts with FastQ datasets. The pipeline utilizes open-source bioinformatic programs to process resulting reads, align them to the human genome (GRCh38), call genetic variants, and functionally annotate them. 
