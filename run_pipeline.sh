@@ -1,6 +1,8 @@
 # PIPELINE (Makeshift)
 # You can try it out yourself ;D
 
+## WARNING: THIS IS ASSUMING YOU'RE IN LINUX(UBUNTU) ENVIRONMENT WITH fastq-dump, bwa, samtools, bcftools, AND snpEff INSTALLED.
+
 ## CODE STARTS HERE --->
 
 # Set working directories
