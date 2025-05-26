@@ -1,0 +1,16 @@
+## Prerequisites
+
+# Type this in command-line before following run_pipeline.sh
+# RECOMMEND: LINUX(UBUNTU)
+sudo apt update 
+sudo apt upgrade -y
+sudo apt install -y \
+    fastqc \
+    multiqc \
+    bwa \
+    samtools \
+    bcftools \
+    openjdk-17-jdk \
+    sra-toolkit \
+    wget \
+    unzip
