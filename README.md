@@ -55,5 +55,5 @@ To perform quality control, alignment, variant calling, filtering, and annotatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ParthivRajesh/Genomics-Pipeline-Variant-Calling.git
+   git clone https://github.com/ParthivRajesh/Clinical-Genomics-VariantPipeline.git
    cd Genomics-Pipeline-Variant-Calling
