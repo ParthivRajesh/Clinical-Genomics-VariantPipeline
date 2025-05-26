@@ -1,0 +1,24 @@
+# Install SRA Toolkit
+sudo apt update
+sudo apt install sra-toolkit
+
+# Create Directory genomics_pipeline
+
+mkdir -p ~/genomics_pipeline/ && cd ~/genomics_pipeline/ ( You can skip this step and go to the second step directly )
+mkdir -p ~/genomics_pipeline/data && cd ~/genomics_pipeline/data 
+
+# Download FASTQ file
+
+prefetch SRR576933 
+fasterq-dump SRR576933 ( Converts file to fastq format )
+
+# Result 
+SRR576933.fastq file obtained
+( type find SRR576933.fastq to verify )
+
+
+
+
+
+
+
