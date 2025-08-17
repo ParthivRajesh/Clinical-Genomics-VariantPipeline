@@ -1,7 +1,7 @@
 #  Genomics Pipeline for Streamlined Variant Discovery and Annotation
 
 ## Project Description
-This document demonstrates a complete variant calling and annotation pipeline that starts with FastQ datasets. The pipeline utilizes open-source bioinformatic programs to process resulting reads, align them to the human genome (GRCh38), call genetic variants, and functionally annotate them. 
+This document demonstrates a complete variant calling and annotation pipeline of SRR576933 that starts with FastQ datasets. The pipeline utilizes open-source bioinformatic programs to process resulting reads, align them to the human genome (GRCh38), call genetic variants, and functionally annotate them. 
 
 The pipeline imitates a ClinGen workflow and includes all necessary steps—quality control, adapter trimming, alignment, variant calling, filtering, and annotation—using existing command line tools.
 
